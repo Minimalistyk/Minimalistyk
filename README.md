@@ -12,16 +12,16 @@ Currently, my main focus is on mastering **Data Science & Machine Learning** fro
   <img src="https://img.shields.io/badge/Machine%20Learning-333333?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-FFCC00?style=for-the-badge&logo=godotengine&logoColor=black" />
 </div>
+<div>
+  <h3>🎮 Gamedev Tinkering</h3>
+  <p>In my free time, I love creating small games using the Godot engine. Check out my pinned projects!</p>
+    
+  <img align="right" width="200" src="https://media.tenor.com/FDap_D5vX9oAAAAj/frieren-spinning.gif" alt="Anime greeting" />
+  
+  <h3>🏋️ Gym enjoyer</h3>
+  <p>You can catch me at least twice a week at local gym!</p>
 
-<h3>🎮 Gamedev Tinkering</h3>
-<p>In my free time, I love creating small games using the Godot engine. Check out my pinned projects!</p>
-
-<h3>🏋️ Gym enjoyer</h3>
-<p>You can catch me at least twice a week at local gym!</p>
-
-<h3>🌸 Anime lover</h3>
-<p>Peak: Zero made me learn basic Japanese, すごいですね?</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp4M2M5dGdmanFleGkxajA4bzJ4eXR5YTJ2b280YjZ5ZHRqaW83MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="150" alt="Anime greeting" />
+  <h3>🌸 Anime lover</h3>
+  <p>Peak: Zero made me learn basic Japanese, すごいですね?</p>
 </div>
+

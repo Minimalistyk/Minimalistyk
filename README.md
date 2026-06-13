@@ -1,36 +1,27 @@
-<!-- Opcjonalne powitanie z efektem fali -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=gradient&height=120&section=header&text=Hi%20there!%20👋&fontSize=50" />
-</div>
+## Hey, I'm Michał - known online as Minimalistyk
 
-<!-- Opis -->
-## Hey, I'm Michał (Minimalistyk)
-
-I'm a Computer Science student transforming into a **Software Engineer**. 🚀
+I am a Computer Science student transforming into a **Software Engineer**. 🚀
+Michał for professional matters, Minimalistyk for the internet.
 Currently, my main focus is on mastering **Data Science & Machine Learning** from the ground up.
 
-<!-- Ikony technologii - pro i "luz" jednocześnie -->
 <h3>🛠️ Tech Stack & Learning</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-FF7139?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-333333?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-FFCC00?style=for-the-badge&logo=godotengine&logoColor=black" />
 </div>
 
-<!-- Sekcja o hobby gamedev -->
 <h3>🎮 Gamedev Tinkering</h3>
-<p>In my free time, I love creating small games using the <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" /> engine. Check out my pinned projects!</p>
-<div align="left">
-  <img src="https://img.shields.io/badge/GDScript-FFCC00?style=for-the-badge&logo=gdscript&logoColor=black" />
-</div>
+<p>In my free time, I love creating small games using the Godot engine. Check out my pinned projects!</p>
 
-<!-- Sekcja z anime girl na końcu -->
-<br>
+<h3>🏋️ Gym enjoyer</h3>
+<p>You can catch me at least twice a week at local gym!</p>
+
+<h3>🌸 Anime lover</h3>
+<p>Peak: Zero made me learn basic Japanese, すごいですね?</p>
+
 <div align="center">
-  <h3>📫 Get in Touch</h3>
-  <p>Feel free to reach out, even if you just want to say hello! You can find me at <img src="https://img.shields.io/badge/@Minimalistyk-E4405F?style=flat&logo=instagram&logoColor=white" /> (lub pod linkiem na moim pasku bocznym).</p>
-  <br>
-  <!-- TU JEST TWOJA ANIME GIRL -->
-  <img src="https://img1.picmix.com/output/pic/original/7/8/7/3/10873787_03672.gif" width="150" />
+  <img src="[https://media.tenor.com/w4pB4Y7g3i0AAAAj/anime-wave.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp4M2M5dGdmanFleGkxajA4bzJ4eXR5YTJ2b280YjZ5ZHRqaW83MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif)" width="150" alt="Anime greeting" />
 </div>

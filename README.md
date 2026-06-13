@@ -23,5 +23,5 @@ Currently, my main focus is on mastering **Data Science & Machine Learning** fro
 <p>Peak: Zero made me learn basic Japanese, すごいですね?</p>
 
 <div align="center">
-  <img src="[https://media.tenor.com/w4pB4Y7g3i0AAAAj/anime-wave.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp4M2M5dGdmanFleGkxajA4bzJ4eXR5YTJ2b280YjZ5ZHRqaW83MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif)" width="150" alt="Anime greeting" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp4M2M5dGdmanFleGkxajA4bzJ4eXR5YTJ2b280YjZ5ZHRqaW83MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="150" alt="Anime greeting" />
 </div>
